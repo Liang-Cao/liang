@@ -16,6 +16,5 @@
 #weibo
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,wbapp
-
 #weixin
   - DOMAIN-SUFFIX,wx.qlogo.cn
